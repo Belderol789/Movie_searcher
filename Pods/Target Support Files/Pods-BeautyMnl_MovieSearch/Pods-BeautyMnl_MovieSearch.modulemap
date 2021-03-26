@@ -1,0 +1,6 @@
+framework module Pods_BeautyMnl_MovieSearch {
+  umbrella header "Pods-BeautyMnl_MovieSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
